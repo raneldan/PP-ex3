@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2df82a-bcb7-474a-848b-df29db2f2503" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dK4NthdLHGi5N15cBQxyGAOCM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ranee\PycharmProjects\graph_for_para\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ranee\PycharmProjects\graph_for_para" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graph_for_para" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2df82a-bcb7-474a-848b-df29db2f2503" name="Default Changelist" comment="" />
+      <created>1592160413340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592160413340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592160705620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592160705620" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592166595383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592166595383" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1592161767617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592161767617" />
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom" timestamp="1592252977409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592252977409" />
+    <state width="949" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592166161340" />
+    <state width="1515" height="173" key="GridCell.Tab.0.center" timestamp="1592252977409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592252977409" />
+    <state width="949" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592166161340" />
+    <state width="1515" height="173" key="GridCell.Tab.0.left" timestamp="1592252977409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592252977409" />
+    <state width="949" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592166161340" />
+    <state width="1515" height="173" key="GridCell.Tab.0.right" timestamp="1592252977409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592252977409" />
+    <state width="949" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592166161340" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1592251619514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592251619514" />
+    <state width="949" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592161171531" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1592251619513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592251619513" />
+    <state width="949" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592161171531" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1592251619513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592251619513" />
+    <state width="949" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592161171531" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1592251619513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592251619513" />
+    <state width="949" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592161171531" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592165362387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592165362387" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="time[0].append(1)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
