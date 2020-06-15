@@ -30,4 +30,4 @@ plt.xlabel("size in byte")
 plt.ylabel("pinned vs non-pinned ratio")
 plt.title("Commute Time to and from the device")
 plt.savefig(
-        path_dir + ".pdf")
+        path_dir + "result")
